@@ -1,4 +1,4 @@
-### <a name="split-a-string-using-awk">Split a string using awk</a>
+### Split a string using awk
 
 split **tinytelly.github.io** and output **github**
 
