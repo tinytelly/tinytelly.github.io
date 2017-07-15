@@ -1,8 +1,8 @@
 ### Split a string using awk
 
-awk to split `git-hub-pages` and output `hub`
+awk to split **tinytelly.github.io** and output **github**
 
 ```bash
-echo git-hub-pages | awk -F'-' '{ print $2 }'
+echo tinytelly.github.io | awk -F'-' '{ print $2 }'
 ```
 
